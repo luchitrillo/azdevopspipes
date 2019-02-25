@@ -21,6 +21,6 @@ Webhook notifiactions are made with the inner MS Teams webhook configurations (a
 - **RELEASE:** $(Release.ReleaseName)
 - **ENVIRONMENT:** $(Agent.Name)
 ```
-Azure DevOps noification step configuration:
+Azure DevOps pipeline notifiaction step configuration:
 
 ![alt text](https://raw.githubusercontent.com/luchitrillo/azdevopspipes/master/Notifications/azdevopspostmessage.png)
