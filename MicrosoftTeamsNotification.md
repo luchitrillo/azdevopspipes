@@ -1,7 +1,0 @@
-## PROJECT: $(System.TeamProject)
-- **TRIGGER:** $(Release.RequestedFor)
-- **BRANCH:** $(Build.SourceBranchName)
-- **COMMIT:** $(Build.SourceVersion)
-- **BUILD:** $(Build.BuildNumber)
-- **RELEASE:** $(Release.ReleaseName)
-- **ENVIRONMENT:** $(Agent.Name)
