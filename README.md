@@ -2,7 +2,7 @@
 
 ## Architecture
 
-Architectural view of the CI/CD Pipelines dispositions (Parametrized Build accordingly to the chosen environment & Automated Release and Deployment)
+Architectural view of the CI/CD Pipeline disposition (Parametrized Build accordingly to chosen variables values in build configuration & Automated Release and Deployment)
 
 ![alt text](https://raw.githubusercontent.com/luchitrillo/azdevopspipes/master/iac-ado-pipeline.png)
 
