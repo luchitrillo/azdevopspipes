@@ -4,7 +4,7 @@
 
 Architectural view of the CI/CD Pipelines dispositions (Parametrized Build accordingly to the chosen environment & Automated Release and Deployment)
 
-![alt text](https://raw.githubusercontent.com/luchitrillo/azdevopspipes/master/az-devops-pipeline.png)
+![alt text](https://raw.githubusercontent.com/luchitrillo/azdevopspipes/master/ado-pipeline.png)
 
 ## Templates
 
